@@ -7,6 +7,7 @@ public class Desafio2 {
         Scanner scanner = new Scanner(System.in);
         ArrayList < String > ativos = new ArrayList < > ();
 
+
         //Entrada dos tipos de ativos
         int quantidadeAtivos = scanner.nextInt();
 
