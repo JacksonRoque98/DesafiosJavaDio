@@ -4,6 +4,7 @@ public class Desafio01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+
         System.out.println("Por favor, digite seu saldo atual: ");
         double saldoAtual = scanner.nextDouble();
         System.out.println("Por favor, digite o valor a ser depositado: ");
